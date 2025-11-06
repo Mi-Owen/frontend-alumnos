@@ -1,0 +1,3 @@
+.schedule .grid2 label{display:flex;flex-direction:column;gap:6px}
+.schedule input,.schedule select{border:1px solid #cfe7ea;border-radius:8px;padding:10px 12px}
+.schedule input:focus,.schedule select:focus{outline:none;border-color:#0e7180;box-shadow:0 0 0 3px rgba(14,113,128,.15)}
